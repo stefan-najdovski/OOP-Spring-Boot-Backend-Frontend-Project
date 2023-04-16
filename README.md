@@ -1,7 +1,18 @@
 # OOP-Spring-Boot-Backend-Frontend-Project
-Simple Project  Backend (Spring Boot Java) + Frontend (HTML/CSS/JS)+ PostgreSQL Database
 
-GET and POST ENDPOINTS :
+Simple Project written mostly in Java
+
+- Backend (Spring Boot Java) 
+- Frontend (HTML/CSS/JS)+ PostgreSQL Database
+
+- For DATABASE (tested on macOS Ventura 13.3)
+
+```
+brew install postgresql@15
+```
+- Postgres.app (macOS only)
+
+GET and POST ENDPOINTS (FOR POSTMAN/INSOMINA Users) :
 
 - POST
 ```
