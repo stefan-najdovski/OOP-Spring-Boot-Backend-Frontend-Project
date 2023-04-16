@@ -22,3 +22,8 @@ http://localhost:8080/api/v1/user + JSON BODY
 ```
 http://localhost:8080/api/v1/user/subscribers
 ```
+
+
+## LICENSE
+MIT
+- The logo is public domain (see the html comment for more info).
